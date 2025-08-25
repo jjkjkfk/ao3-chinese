@@ -3,7 +3,8 @@
 更新时间：2025-08-25
 
 词条
-//区分大小写
+
+//队友
 Astarion：阿斯代伦
 Dark Urge：邪念
 Gale：盖尔
@@ -12,23 +13,33 @@ Shadowheart：影心
 Lae’zel：莱埃泽尔
 Karlach：卡菈克
 Wyll：威尔
-Jergal：耶格
-Kelemor：凯兰沃
-Withers：守墓人
+
+//npc
 Zevlor：赛夫洛
 Kagha：卡哈
 Nettie：内蒂
 Lorroakan：洛若坎
 Dammon：戴摩
 Absolute：至上真神
+Tara：塔拉
+
+//神
+Jergal：耶格
+Kelemor：凯兰沃
+Withers：守墓人
 Silvanus：西凡纳斯
 Lolth：罗丝
+
+//称呼
 Blade of Frontiers：边境之刃
+
+//地点
 Baldur’s Gate：博德之门
 Elturel：艾尔托瑞
 
 通用词条
-//不区分大小写
+
+//种族
 goblins：地精
 Drow：卓尔
 mindflayers：夺心魔
@@ -39,7 +50,11 @@ githyanki：吉斯洋基
 tiefling：提夫林
 wizard：法师
 cleric：牧师
+
+//外星语言
 chk：啧
+
+//地点
 Emerald Grove = 翠绿 林地
 
 禁翻词条
