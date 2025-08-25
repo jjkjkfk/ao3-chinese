@@ -1,4 +1,4 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：jjkjkfk
 更新时间：2025-08-25
 
@@ -13,19 +13,33 @@ Lae’zel：莱埃泽尔
 Jergal：耶格
 Kelemor：凯兰沃
 Withers：守墓人
+Zevlor：赛夫洛
+Kagha：卡哈
+Nettie：内蒂
+Lorroakan：洛若坎
+Dammon：戴摩
+
+Absolute：至上真神
+Blade of Frontiers：边境之刃
+
+Baldur’s Gate：博德之门
+Elturel：艾尔托瑞
 
 通用词条
 //不区分大小写
 goblins：地精
-drow：卓尔
+Drow：卓尔
 mindflayers：夺心魔
 intellect devourer：噬脑怪
 tadpole：蝌蚪
+githyanki：吉斯洋基
 
 wizard：法师
 cleric：牧师
 
 chk：啧
+
+Emerald Grove = 翠绿 林地
 
 禁翻词条
 //区分大小写
