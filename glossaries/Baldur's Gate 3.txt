@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：jjkjkfk
 更新时间：2025-08-25
 
@@ -33,6 +33,7 @@ mindflayers：夺心魔
 intellect devourer：噬脑怪
 tadpole：蝌蚪
 githyanki：吉斯洋基
+tiefling：提夫林
 
 wizard：法师
 cleric：牧师
