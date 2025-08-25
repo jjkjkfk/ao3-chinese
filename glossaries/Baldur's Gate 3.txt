@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.3
 维护者：jjkjkfk
 更新时间：2025-08-25
 
@@ -9,6 +9,7 @@ Dark Urge：邪念
 Gale：盖尔
 Halsin：哈尔辛
 Shadowheart：影心
+Lae’zel：莱埃泽尔
 
 通用词条
 //不区分大小写
@@ -16,9 +17,12 @@ goblins：地精
 drow：卓尔
 mindflayers：夺心魔
 intellect devourer：噬脑怪
+tadpole：蝌蚪
 
 wizard：法师
 cleric：牧师
+
+chk：啧
 
 禁翻词条
 //区分大小写
