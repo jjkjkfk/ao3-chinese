@@ -1,4 +1,4 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：jjkjkfk
 更新时间：2025-08-25
 
@@ -7,6 +7,7 @@
 //队友
 Astarion：阿斯代伦
 Dark Urge：邪念
+Durge：邪念
 Gale：盖尔
 Halsin：哈尔辛
 Shadowheart：影心
@@ -22,6 +23,7 @@ Lorroakan：洛若坎
 Dammon：戴摩
 Absolute：至上真神
 Tara：塔拉
+Enver Gortash = 恩维尔 戈塔什
 
 //神
 Jergal：耶格
@@ -29,6 +31,7 @@ Kelemor：凯兰沃
 Withers：守墓人
 Silvanus：西凡纳斯
 Lolth：罗丝
+Bane：班恩
 
 //称呼
 Blade of Frontiers：边境之刃
