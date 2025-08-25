@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：jjkjkfk
 更新时间：2025-08-25
 
@@ -10,6 +10,9 @@ Gale：盖尔
 Halsin：哈尔辛
 Shadowheart：影心
 Lae’zel：莱埃泽尔
+Jergal：耶格
+Kelemor：凯兰沃
+Withers：守墓人
 
 通用词条
 //不区分大小写
