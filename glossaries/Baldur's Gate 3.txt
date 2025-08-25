@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：jjkjkfk
 更新时间：2025-08-25
 
@@ -21,6 +21,8 @@ Nettie：内蒂
 Lorroakan：洛若坎
 Dammon：戴摩
 Absolute：至上真神
+Silvanus：西凡纳斯
+Lolth：罗丝
 Blade of Frontiers：边境之刃
 Baldur’s Gate：博德之门
 Elturel：艾尔托瑞
