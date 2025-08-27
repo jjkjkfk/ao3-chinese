@@ -63,5 +63,8 @@ chk：啧
 //地点
 Emerald Grove = 翠绿 林地
 
+//物品
+Netherstones：耐色石
+
 禁翻词条
 //区分大小写
