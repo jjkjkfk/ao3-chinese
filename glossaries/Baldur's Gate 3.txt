@@ -33,6 +33,7 @@ Withers：守墓人
 Silvanus：西凡纳斯
 Lolth：罗丝
 Bane：班恩
+Bhaal：巴尔
 
 //称呼
 Blade of Frontiers：边境之刃
