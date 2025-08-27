@@ -35,6 +35,7 @@ Bane：班恩
 
 //称呼
 Blade of Frontiers：边境之刃
+bhaalspawn：巴尔之子
 
 //地点
 Baldur’s Gate：博德之门
