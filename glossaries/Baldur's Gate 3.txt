@@ -24,6 +24,7 @@ Dammon：戴摩
 Absolute：至上真神
 Tara：塔拉
 Enver Gortash = 恩维尔 戈塔什
+Netherbrain：耐色脑
 
 //神
 Jergal：耶格
