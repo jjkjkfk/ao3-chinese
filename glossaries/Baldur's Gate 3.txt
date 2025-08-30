@@ -28,6 +28,7 @@ Netherbrain：耐色脑
 Orin：奥林
 Bonedaughter：骨女
 Sarevok：沙洛弗克
+Emperor：君主
 
 //神
 Jergal：耶格
