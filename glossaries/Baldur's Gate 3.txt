@@ -46,6 +46,7 @@ bhaalspawn：巴尔之子
 Baldur’s Gate：博德之门
 Elturel：艾尔托瑞
 Wyrm's Rock：飞龙岩
+Elfsong：精灵之歌
 
 通用词条
 
