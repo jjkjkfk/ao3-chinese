@@ -1,4 +1,4 @@
-版本号：1.0.9
+版本号：1.0.10
 维护者：jjkjkfk
 更新时间：2025-08-25
 
@@ -43,6 +43,7 @@ bhaalspawn：巴尔之子
 //地点
 Baldur’s Gate：博德之门
 Elturel：艾尔托瑞
+Wyrm's Rock：飞龙岩
 
 通用词条
 
