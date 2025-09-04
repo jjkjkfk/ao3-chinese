@@ -1,4 +1,4 @@
-版本号：1.0.10
+版本号：1.0.11
 维护者：jjkjkfk
 更新时间：2025-08-25
 
@@ -6,7 +6,7 @@
 
 //队友
 Astarion：阿斯代伦
-Dark Urge：邪念
+The Dark Urge：邪念
 Durge：邪念
 Gale：盖尔
 Halsin：哈尔辛
@@ -71,6 +71,7 @@ Emerald Grove = 翠绿 林地
 
 //物品
 Netherstones：耐色石
+steel watcher：钢铁卫士
 
 禁翻词条
 //区分大小写
