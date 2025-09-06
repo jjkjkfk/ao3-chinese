@@ -1,4 +1,4 @@
-版本号：1.0.11
+版本号：1.0.12
 维护者：jjkjkfk
 更新时间：2025-08-25
 
@@ -60,8 +60,11 @@ intellect devourer：噬脑怪
 tadpole：蝌蚪
 githyanki：吉斯洋基
 tiefling：提夫林
+
+//职业
 wizard：法师
 cleric：牧师
+sorcerer：术士
 
 //外星语言
 chk：啧
