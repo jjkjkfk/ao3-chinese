@@ -49,6 +49,9 @@ Elturel：艾尔托瑞
 Wyrm's Rock：飞龙岩
 Elfsong：精灵之歌
 
+//物品
+Stillmaker：静止者
+
 通用词条
 
 //种族
