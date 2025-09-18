@@ -1,6 +1,6 @@
-版本号：1.0.13
+版本号：1.0.14
 维护者：jjkjkfk
-更新时间：2025-09-15
+更新时间：2025-09-19
 
 词条
 
@@ -42,7 +42,6 @@ Shar：莎尔
 
 //称呼
 Blade of Frontiers：边境之刃
-bhaalspawn：巴尔之子
 
 //地点
 Baldur’s Gate：博德之门
@@ -61,6 +60,10 @@ intellect devourer：噬脑怪
 tadpole：蝌蚪
 githyanki：吉斯洋基
 tiefling：提夫林
+
+//称谓
+bhaalspawn：巴尔之子
+banite：班恩信徒
 
 //职业
 wizard：法师
