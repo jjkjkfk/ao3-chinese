@@ -67,6 +67,7 @@ tiefling：提夫林
 //称谓
 bhaalspawn：巴尔之子
 banite：班恩信徒
+bhaalist：巴尔信徒
 
 //职业
 wizard：法师
